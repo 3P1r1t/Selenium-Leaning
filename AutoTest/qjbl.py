@@ -1,0 +1,2 @@
+global code
+global value
