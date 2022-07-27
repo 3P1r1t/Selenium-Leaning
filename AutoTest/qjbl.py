@@ -1,2 +1,0 @@
-global code
-global value
